@@ -1,6 +1,6 @@
 ## Assignment Details
 
-For this project, I will analyze Dognition's user data and make marketing/strategy recommendations regarding user retention rate. Dognition provides a service for dog owners to connect to their dogs and see how their pet functions on a cognitive level. This assignment is the final project for Coursera's Data Visualization and Communication With Tableau course.
+For this project, I will analyze Dognition's user data and make marketing/strategy recommendations regarding user retention rate. Dognition provides a service for dog owners to connect to their dogs and see how their pet functions on a cognitive level. This assignment is the final project for Coursera's 'Data Visualization and Communication With Tableau' course developed by Duke University.
 
 ## Prerequisites 
 
